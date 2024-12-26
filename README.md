@@ -2,6 +2,9 @@
 Plugin [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) is required.
 
 ## Keymaps
+1. `ctrl+s` `ctrl+b` toggle Statusbar Visibility
+2. `ctrl+shift+\` create Terminal Editor
+
 ### Change
 1. `cw` change word
 2. `ci'` or `ci(` or `ci[` or `ci{` or `ci<` or `ci"` change inside brackets

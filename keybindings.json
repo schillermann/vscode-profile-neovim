@@ -1,0 +1,10 @@
+[
+    {
+        "key": "ctrl+s ctrl+b",
+        "command": "workbench.action.toggleStatusbarVisibility"
+    },
+    {
+        "key": "ctrl+shift+\\",
+        "command": "workbench.action.createTerminalEditor"
+    }
+]
